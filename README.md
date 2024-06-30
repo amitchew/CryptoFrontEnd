@@ -1,9 +1,10 @@
 # CryptoTrade
 
-CryptoTradeAPI is a service that provides cryptocurrency trade and market data. It interacts with server to store and retrieve data about various cryptocurrencies.
+CryptoTradeis a service that provides cryptocurrency trade and market data. It interacts with server to store and retrieve data about various cryptocurrencies.
 
 ## Deployed server
-https://cryptodataservice.onrender.com/docs/
+Front-end - https://crypto-front-end-git-master-amitchews-projects.vercel.app/
+Back-end - https://cryptodataservice.onrender.com/docs/
 
 
 
